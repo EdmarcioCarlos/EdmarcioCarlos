@@ -2,7 +2,7 @@
 
 **'Analista de dados'**
 
-Meu nome é Edmarcio Carlos, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino superior em Desenvolvimento de Jogos Digitais pela PUC Minas. Atualmente, trabalho como Analista de Dados na PARTNER. Sou apaixonado por tecnologia e estou sempre em busca de desenvolvimento pessoal e profissional.
+Meu nome é Edmarcio Carlos, tenho 25 anos e sou natural de Minas Gerais. Concluí o ensino superior em Desenvolvimento de Jogos Digitais pela PUC Minas. Atualmente, trabalho como Analista de Dados na PARTNER. Sou apaixonado por tecnologia, corrida e programação e aqui estão alguns dos meus trabalhos, estou sempre em busca de desenvolvimento pessoal e profissional.
 
 
 <p align="left">
