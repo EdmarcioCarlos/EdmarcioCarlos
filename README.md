@@ -1,6 +1,6 @@
 <!--
   PREENCHA ANTES DE PUBLICAR (use Ctrl+F):
-  - Seção "Projetos em destaque" -> troque pelos seus projetos reais
+  - Projetos em destaque -> quando um repositório ficar público, transforme o nome em link
   - Stack -> remova o que você não usa e adicione o que faltar
 -->
 
@@ -63,11 +63,15 @@ Sou **Analista de Dados na PARTNER**, de Minas Gerais, e formado em **Desenvolvi
 
 ## 📁 Projetos em destaque
 
-| Projeto | Problema / objetivo | Ferramentas | Resultado |
+Além do trabalho com dados, organizo jogos de airsoft e crio a tecnologia que roda neles: sistemas que registram pontuação, controlam o estado da partida e tiram a arbitragem manual do campo.
+
+| Projeto | O que é | Ferramentas | Destaque |
 |---|---|---|---|
-| [**Nome do projeto 1**](https://github.com/EdmarcioCarlos/repo-1) | Ex.: analisar vendas por região para identificar queda de receita | SQL · Power BI | Ex.: dashboard que reduziu o tempo de relatório de 2 dias para 1 hora |
-| [**Nome do projeto 2**](https://github.com/EdmarcioCarlos/repo-2) | Ex.: análise exploratória de dados de clientes | Python · Pandas | Ex.: identificação de 3 perfis de clientes |
-| [**Nome do projeto 3**](https://github.com/EdmarcioCarlos/repo-3) | Ex.: limpeza e automação de planilhas | Python · Excel | Ex.: processo manual automatizado |
+| **Site G.A.T Granada** | Site do time com página pública e painel administrativo: agenda de jogos, galeria, escalação dos squads e candidaturas | HTML · CSS · JavaScript · Firebase (Auth + Firestore) · Vercel | Regras de segurança no banco, login só para ADMs e dados pessoais fora do repositório |
+| **Gadgets BLACK BIRD** | 14 dispositivos eletrônicos para airsoft, do cronógrafo à visão noturna, com peças 3D modeladas em código | C++ (Arduino / ESP32) · OpenSCAD · ESP-NOW | Cronógrafo que calcula média, desvio padrão e variação de cada série de tiros |
+| **Apps dos jogos La Catedral e Caça ao Tesouro** | Apps Android para tablets que conduzem as partidas: códigos, mapas que se revelam, placar e avisos de voz | JavaScript · HTML · Android (WebView) · UDP | Tablets dos times sincronizados pela rede local em tempo real |
+| **Operação Watch Dogs** | Terminal de "invasão" que decide a missão sozinho: senha em 3 partes, triangulação e pendrive-chave | Python · Tkinter · JSON | Estado salvo da partida e retomada automática, sem fiscal em campo |
+| **Banco SQUAD** | Banco do jogo: pendrives achados no campo viram crédito para a equipe | Python · CustomTkinter · JSON | Histórico de depósitos e "mercado" que muda os valores durante o jogo |
 
 ---
 
